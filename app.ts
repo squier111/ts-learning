@@ -1,0 +1,2 @@
+//string
+let myName = "Max";
